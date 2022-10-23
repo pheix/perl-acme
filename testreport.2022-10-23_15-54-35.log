@@ -1,9 +1,0 @@
------------ STAGE no.1 -----------
-ok 1
-ok 2
-ok 3
-1..3
-
------------ STAGE no.2 -----------
-1..0 # SKIP these tests are for release candidate testing
-
