@@ -1,0 +1,5 @@
+target: Perl5 Acme v1.11111111111
+stages:
+  - test: perl /tmp/Acme-perl5/t/acme.t
+  - test: perl /tmp/Acme-perl5/t/release-pod-syntax.t
+
