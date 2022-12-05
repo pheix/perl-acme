@@ -1,1 +1,0 @@
-/home/kostas/git/pheix-pool/core-perl6/run-tests.bash
